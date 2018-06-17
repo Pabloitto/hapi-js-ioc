@@ -1,9 +1,7 @@
 const { register } = require('../src/users')
 
 const setup = () => {
-  const { samuraiject } = require('samurai-inject')
-
-  const { Container } = samuraiject
+  const { Container } = require('samurai-inject')
 
   const container = Container()
 
