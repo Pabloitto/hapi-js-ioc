@@ -1,0 +1,23 @@
+{
+  "name": "hapi-js-ioc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pabloitto/hapi-js-ioc.git"
+  },
+  "author": "Juan Pablo Itto <pabloitto@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pabloitto/hapi-js-ioc/issues"
+  },
+  "homepage": "https://github.com/Pabloitto/hapi-js-ioc#readme",
+  "dependencies": {
+    "hapi": "^17.5.1",
+    "samuraiject": "^1.0.1"
+  }
+}
